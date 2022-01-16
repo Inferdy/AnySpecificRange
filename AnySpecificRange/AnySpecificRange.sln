@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnySpecificRange", "AnySpecificRange\AnySpecificRange.csproj", "{B54BD67E-9AC0-43B1-89F1-C3A1481A2FD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrollTest", "ScrollTest\ScrollTest.csproj", "{FAC8CC3D-EB39-4A3E-8B68-C5AF7EF650EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B54BD67E-9AC0-43B1-89F1-C3A1481A2FD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B54BD67E-9AC0-43B1-89F1-C3A1481A2FD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B54BD67E-9AC0-43B1-89F1-C3A1481A2FD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B54BD67E-9AC0-43B1-89F1-C3A1481A2FD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAC8CC3D-EB39-4A3E-8B68-C5AF7EF650EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC8CC3D-EB39-4A3E-8B68-C5AF7EF650EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC8CC3D-EB39-4A3E-8B68-C5AF7EF650EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC8CC3D-EB39-4A3E-8B68-C5AF7EF650EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93ACB0FD-876F-4E46-91DC-FDB516F2A22F}
+	EndGlobalSection
+EndGlobal
